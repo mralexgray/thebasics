@@ -1,0 +1,11 @@
+{
+  "name": "thebasics",
+  "version": "1.0.0",
+  "description": "what every node project needs!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Gray <alex@mrgray.com> (http://mrgray.com)",
+  "license": "ISC"
+}
